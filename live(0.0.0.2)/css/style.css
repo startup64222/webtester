@@ -1,17 +1,10 @@
    body{
-
-    background-image: url("img.jpg");
-    
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-
+background-color: #abcdef;
     padding: 0 0 0 0;
     margin: 0 0 0 0;
   }
   header{
-    font-size:600%;
+    font-size:200px;
     color: red;
     text-align: center;
   }
